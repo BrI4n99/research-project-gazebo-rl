@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<sdf version="1.8">
+  <world name="test-world">
+    <include>
+      <uri>model://ground-plane</uri>
+      <static>true</static>
+      <pose>0 0 0 0 0 0</pose>  
+    </include>
+  </world>
+</sdf>
