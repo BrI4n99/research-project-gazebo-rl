@@ -15,3 +15,6 @@ When using a VM start garzebo with `--render-engine ogre`
 ```bash
 gz sim simulation/worlds/test-world.sdf --render-engine ogre
 ```
+## Test World
+
+![alt text](image.png)
